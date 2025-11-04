@@ -18,7 +18,7 @@ public class Calculos {
             return 0;
         }
 
-        return numero_1 - numero_2;
+        return numero_1 / numero_2;
     }
     static double resto(double numero_1, double numero_2){
         return numero_1 % numero_2;

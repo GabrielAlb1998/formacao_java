@@ -64,7 +64,7 @@ public class Calculadora {
                 break;
             case "/":
               //  System.out.println(num1 + operacao + num2 + " = " + Calculos.dividir(num1, num2));
-                System.out.printf("%.0f%s%.0f=%.0f\n", num1, entradas, num2, Calculos.dividir(num1,num2) );
+                System.out.printf("%.0f%s%.0f=%.2f\n", num1, entradas, num2, Calculos.dividir(num1,num2) );
                 if (num1 % 2 != 0) System.out.println("O resto dessa operação é " + Calculos.resto(num1, num2));
                 break;
 
