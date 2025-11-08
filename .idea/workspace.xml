@@ -4,28 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c144d640-1d36-45c3-9dee-58085ff1ced7" name="Alterações" comment="">
-      <change afterPath="$PROJECT_DIR$/Enum/src/EstadosBrasileiros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemploPacotes/src/com/mastersoft/clinical/ExameService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemploPacotes/src/com/mastersoft/clinical/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemploPacotes/src/com/mastersoft/clinical/model/Exame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetterSetters/src/Escola/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetterSetters/src/SistemaCadastro/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetterSetters/src/SistemaCadastro/SistemaCadastro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Messenger/src/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oop/src/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oop/src/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oop/src/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaVendas/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaVendas/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaVendas/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaVendas/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaVendas/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaVendas/SistemaVendas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaVendas/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaVendas/src/com/gabrielalbuquerque/sistemavendas/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaVendas/src/com/gabrielalbuquerque/sistemavendas/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaVendas/src/com/gabrielalbuquerque/sistemavendas/cadastro.java" afterDir="false" />
+    <list default="true" id="c144d640-1d36-45c3-9dee-58085ff1ced7" name="Alterações" comment="Atualizações do curso">
+      <change afterPath="$PROJECT_DIR$/interface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/src/equipamento/copiadora/Copiadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/src/equipamento/copiadora/Xerox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/src/equipamento/digitalizadora/Digitalizadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/src/equipamento/digitalizadora/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/src/equipamento/impressora/DescJet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/src/equipamento/impressora/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/src/equipamento/impressora/LaserJet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/src/equipamento/multifuncional/MultiFuncional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/src/estabelecimento/loja.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,12 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1762260536564</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Atualizações do curso">
+      <option name="closed" value="true" />
+      <created>1762620213379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762620213379</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Novos assuntos abordados." />
     <MESSAGE value="Atualizações nas funcionalidades.&#10;Calculadora&#10;Conversões" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizações nas funcionalidades.&#10;Calculadora&#10;Conversões" />
+    <MESSAGE value="Atualizações do curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizações do curso" />
   </component>
 </project>
