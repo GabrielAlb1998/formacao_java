@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c144d640-1d36-45c3-9dee-58085ff1ced7" name="Alterações" comment="Novos assuntos abordados." />
+    <list default="true" id="c144d640-1d36-45c3-9dee-58085ff1ced7" name="Alterações" comment="">
+      <change afterPath="$PROJECT_DIR$/Enum/src/EstadosBrasileiros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploPacotes/src/com/mastersoft/clinical/ExameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploPacotes/src/com/mastersoft/clinical/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemploPacotes/src/com/mastersoft/clinical/model/Exame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetterSetters/src/Escola/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetterSetters/src/SistemaCadastro/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetterSetters/src/SistemaCadastro/SistemaCadastro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Messenger/src/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oop/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oop/src/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oop/src/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SistemaVendas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SistemaVendas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SistemaVendas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SistemaVendas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SistemaVendas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SistemaVendas/SistemaVendas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SistemaVendas/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SistemaVendas/src/com/gabrielalbuquerque/sistemavendas/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SistemaVendas/src/com/gabrielalbuquerque/sistemavendas/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SistemaVendas/src/com/gabrielalbuquerque/sistemavendas/cadastro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,11 +95,28 @@
       <option name="project" value="LOCAL" />
       <updated>1761833108241</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atualizações nas funcionalidades.&#10;Calculadora&#10;Conversões">
+      <option name="closed" value="true" />
+      <created>1762260523602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762260523602</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Atualizações nas funcionalidades.&#10;Calculadora&#10;Conversões">
+      <option name="closed" value="true" />
+      <created>1762260536564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762260536564</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Novos assuntos abordados." />
-    <option name="LAST_COMMIT_MESSAGE" value="Novos assuntos abordados." />
+    <MESSAGE value="Atualizações nas funcionalidades.&#10;Calculadora&#10;Conversões" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizações nas funcionalidades.&#10;Calculadora&#10;Conversões" />
   </component>
 </project>
